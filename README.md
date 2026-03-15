@@ -1,6 +1,5 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No.  3 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +46,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: MIRDULA D
+### Register Number: 212225040234
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
